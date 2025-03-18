@@ -3,7 +3,7 @@
 <div align="center">
   <br />
   <a href="https://youtu.be/YOUR_VIDEO_LINK" target="_blank">
-    <img src="https://via.placeholder.com/800x400.png?text=Ecommerce+Platform" alt="Project Banner">
+    <img src="./banner.png" alt="Project Banner">
   </a>
   <br />
   <div>
